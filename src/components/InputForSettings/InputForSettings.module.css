@@ -1,0 +1,19 @@
+.required{
+    color: red;
+}
+
+.normal{
+    color: darkgreen;
+}
+input{
+    width: 55%;
+}
+span{
+    color: #57173d;
+}
+.inp{
+
+
+    display: flex;
+    justify-content: space-between;
+}

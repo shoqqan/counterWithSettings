@@ -1,0 +1,37 @@
+.wrapper {
+    width: 200px;
+    padding: 10px;
+    border: 10px solid blue;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    padding: 50px;
+    justify-content: space-evenly;
+    border-radius: 10%;;
+}
+
+.maximum {
+    color: red;
+}
+
+.increment {
+    width: 50px;
+    padding: 10px;
+    padding-left: 30%;
+    margin-left: 20%;
+
+}
+.error{
+    color: red;
+}
+.buttonActive{
+    background-color: cornflowerblue;
+    border-radius: 5%;
+}
+.buttonDisabled{
+    background-color: grey;
+}
+.buttons {
+    margin-left: 30%;
+}

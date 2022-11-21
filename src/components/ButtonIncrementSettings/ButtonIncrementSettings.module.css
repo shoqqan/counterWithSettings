@@ -1,0 +1,17 @@
+.wrapper {
+    width: 200px;
+    padding: 10px;
+    border: 10px solid blue;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    padding: 50px;
+    justify-content: space-evenly;
+    border-radius: 10%;;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+}
